@@ -1,0 +1,136 @@
+6-Month Go Programming Roadmap
+
+Month 1: Go Fundamentals
+
+Week 1: Introduction to Go
+
+What is Go and why use it?
+Installing Go and setting up your environment
+Writing and running your first Go program
+Basic syntax and structure
+
+Week 2: Variables, Data Types & Constants
+
+Declaring variables (var, :=)
+Data types (integers, floats, strings, booleans)
+Constants (const)
+
+Week 3: Operators & Control Structures
+
+Arithmetic, comparison, logical operators
+If-else conditions
+Switch statements
+
+Week 4: Loops & Functions
+
+For loops (different styles)
+Functions (declaration, parameters, return values)
+Defer, Panic, and Recover
+
+Month 2: Working with Data
+
+Week 5: Arrays & Slices
+
+Creating and modifying arrays
+Slices (dynamic arrays)
+
+Week 6: Maps & Structs
+
+Key-value pairs using maps
+Structs and methods
+
+Week 7: Pointers in Go
+
+Understanding memory addresses
+Working with pointers
+
+Week 8: Error Handling
+
+Using error type
+Custom error handling
+
+Month 3: Intermediate Concepts
+
+Week 9: Goroutines & Concurrency
+
+Introduction to Goroutines
+Using WaitGroups
+
+Week 10: Channels & Buffered Channels
+
+Sending and receiving data
+Synchronizing Goroutines
+
+Week 11: File Handling
+
+Reading and writing files
+Working with JSON and CSV
+
+Week 12: Interfaces & Polymorphism
+
+Understanding interfaces
+Implementing interfaces
+
+Month 4: Advanced Topics
+
+Week 13: Web Development with Go
+
+HTTP server in Go
+Handling requests and responses
+
+Week 14: REST APIs with Go
+
+Building a simple API
+Using gorilla/mux for routing
+
+Week 15: Database Integration
+
+Connecting Go with PostgreSQL or MySQL
+Performing CRUD operations
+
+Week 16: Authentication & Security
+
+JWT authentication
+Secure coding practices
+
+Month 5: Building Real-World Applications
+
+Week 17: Creating a CLI Application
+
+Using cobra for CLI apps
+
+Week 18: Building a Web Application
+
+Using Gin framework
+
+Week 19: Dockerizing Your Go App
+
+Introduction to Docker
+Writing Dockerfiles
+
+Week 20: Deploying Go Applications
+
+Deploying to cloud (Heroku, AWS, DigitalOcean)
+
+Month 6: Mastery & Career Preparation
+
+Week 21: Testing in Go
+
+Writing unit tests
+Using GoMock for testing
+
+Week 22: Contributing to Open Source
+
+Finding Go projects on GitHub
+Making contributions
+
+Week 23: Go Best Practices
+
+Code structuring
+Performance optimization
+
+Week 24: Preparing for Jobs
+
+Go interview questions
+Creating a portfolio with projects
+Applying for jobs or freelance work
